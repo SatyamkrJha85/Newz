@@ -5,7 +5,7 @@
 ![Hilt](https://img.shields.io/badge/Hilt-DI-blueviolet)
 ![Room](https://img.shields.io/badge/Room-Database-yellowgreen)
 
-Welcome to the **News Application**, an Android app designed to keep you updated with the latest news articles from around the world. Built with the latest Android technologies, this app ensures a seamless and modern user experience.
+Welcome to the **News Application**, an Android app designed to keep you updated with the latest news articles from around the world. Built with the latest Android technologies, this app ensures a seamless and modern user experience..
 
 ## 📋 Table of Contents
 - [Features](#features)
